@@ -23,9 +23,9 @@
 		{
 			"id": "003",
 			"placeName": "Gardens by the Bay",
-			"address": "address here",
+			"address": "18 Marina Gardens Dr, Singapore",
 			"imgUrl": "https://www.visitsingapore.com/id_id/see-do-singapore/architecture/modern/gardens-by-the-bay/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
-			"url": "https://www.gardensbythebay.com.sg/",
+			"url": "https://www.gardensbythebay.com/",
 			"latitude": "1.281790",
 			"longitude": "103.863954",
 			"placeDescription": "Beauty abounds in the Gardens.\nBeyond the flora and fauna that you’ll find here, admire the Gardens’ iconic structures – architectural marvels that reimagine nature with artistic finesse."
@@ -33,62 +33,62 @@
 		{
 			"id": "004",
 			"placeName": "China Town",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": " Outram district, Singapore",
+			"imgUrl": "https://www.visitsingapore.com/id_id/walking-tour/culture/in-the-neighbourhood-chinatown/_jcr_content/par-carousel/carousel_detailpage/carousel/item1.thumbnail.carousel-img.740.416.jpg",
+			"url": "https://chinatown.sg/",
 			"latitude": "1.284193",
 			"longitude": "103.843362",
-			"placeDescription": "Place description here"
+			"placeDescription": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay."
 		},
 		{
 			"id": "005",
 			"placeName": "Asian Civilisations Museum",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": "1 Empress Pl, Singapore",
+			"imgUrl": "https://a.cdn-hotels.com/gdcs/production135/d1319/d0830b40-270f-4f71-83bf-d98613d2b656.jpg",
+			"url": "https://www.nhb.gov.sg/acm/",
 			"latitude": "1.287466",
 			"longitude": "103.851424",
-			"placeDescription": "Place description here"
+			"placeDescription": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum."
 		},
 		{
 			"id": "006",
 			"placeName": "Clarke Quay",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": "River Planning Area, Singapore",
+			"imgUrl": "https://www.visitsingapore.com/id_id/walking-tour/eat-drink/drinking-clarke-quay-boat-quay/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg",
+			"url": "https://www.capitaland.com/",
 			"latitude": "1.290555",
 			"longitude": "103.846188",
-			"placeDescription": "Place description here"
+			"placeDescription": "Clarke Quay is a unique, conserved historical landmark located along the Singapore River and at the fringe of Singapore's Central Business District."
 		},
 		{
 			"id": "007",
 			"placeName": "Fort Canning Park",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": "Clemenceau Avenue, Singapore",
+			"imgUrl": "https://img.okezone.com/content/2022/05/08/406/2590637/fort-canning-park-spot-foto-paling-keren-di-singapura-J4jO5woVpV.jpg",
+			"url": "https://www.nparks.gov.sg/",
 			"latitude": "1.295526",
 			"longitude": "103.845331",
-			"placeDescription": "Place description here"
+			"placeDescription": "More than just a green space, Fort Canning Park is a gateway to fascinating historical insights and relics from days of yore."
 		},
 		{
 			"id": "008",
 			"placeName": "Singapore Flyer",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": "30 Raffles Ave, Singapore",
+			"imgUrl": "https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
+			"url": "https://www.singaporeflyer.com/",
 			"latitude": "1.289332",
 			"longitude": "103.863152",
-			"placeDescription": "Place description here"
+			"placeDescription": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building."
 		},
 		{
 			"id": "009",
 			"placeName": "Orchard Road",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
+			"address": "Central Area, Singapore",
+			"imgUrl": "https://www.befreetour.com/img/attraction/orchard-road20191008174624.jpg",
+			"url": "https://www.orchardroad.org/",
 			"latitude": "1.302279",
 			"longitude": "103.837399",
-			"placeDescription": "Place description here"
+			"placeDescription": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels."
 		}
 	]
 }
