@@ -8,7 +8,8 @@
 			"url": "http://www.marinabaysands.com/",
 			"latitude": "1.286920",
 			"longitude": "103.854570",
-			"placeDescription": "The Merlion is the national personification of Singapore.\nIt's name combines \"mer\" meaning the sea and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea tows\" in Javanese. The lion head represents Singapore's original name-Singapura-meaning \"lion city\" or \"kota singa\"."
+			"placeDescription": "The Merlion is the national personification of Singapore.\nIt's name combines \"mer\" meaning the sea and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea tows\" in Javanese. The lion head represents Singapore's original name-Singapura-meaning \"lion city\" or \"kota singa\".",
+			"featured": []
 		},
 		{
 			"id": "002",
@@ -18,7 +19,12 @@
 			"url": "http://www.marinabaysands.com/",
 			"latitude": "1.283099",
 			"longitude": "103.860295",
-			"placeDescription": "Marina Bay Sands (abbreviation: MBS) is an integrated resort fronting Marina Bay in Singapore. The opening of Marina Bay Sands was held on 17 February 2011. It also marked the opening of the seven celebrity chef restaurants."
+			"placeDescription": "Marina Bay Sands (abbreviation: MBS) is an integrated resort fronting Marina Bay in Singapore. The opening of Marina Bay Sands was held on 17 February 2011. It also marked the opening of the seven celebrity chef restaurants.",
+			"featured": [
+				"ArtScience Museum",
+				"Marina Bay Sands Skypark",
+				"Double Helix Bridge"
+			]
 		},
 		{
 			"id": "003",
@@ -28,7 +34,8 @@
 			"url": "https://www.gardensbythebay.com/",
 			"latitude": "1.281790",
 			"longitude": "103.863954",
-			"placeDescription": "Beauty abounds in the Gardens.\nBeyond the flora and fauna that you’ll find here, admire the Gardens’ iconic structures – architectural marvels that reimagine nature with artistic finesse."
+			"placeDescription": "Beauty abounds in the Gardens.\nBeyond the flora and fauna that you’ll find here, admire the Gardens’ iconic structures – architectural marvels that reimagine nature with artistic finesse.",
+			"featured": ["Flower Dome", "Supertree Observatory"]
 		},
 		{
 			"id": "004",
@@ -38,7 +45,8 @@
 			"url": "https://chinatown.sg/",
 			"latitude": "1.284193",
 			"longitude": "103.843362",
-			"placeDescription": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay."
+			"placeDescription": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay.",
+			"featured": ["Chinatown Food Street", "South Bridge Road"]
 		},
 		{
 			"id": "005",
@@ -48,7 +56,8 @@
 			"url": "https://www.nhb.gov.sg/acm/",
 			"latitude": "1.287466",
 			"longitude": "103.851424",
-			"placeDescription": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum."
+			"placeDescription": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum.",
+			"featured": []
 		},
 		{
 			"id": "006",
@@ -58,7 +67,8 @@
 			"url": "https://www.capitaland.com/",
 			"latitude": "1.290555",
 			"longitude": "103.846188",
-			"placeDescription": "Clarke Quay is a unique, conserved historical landmark located along the Singapore River and at the fringe of Singapore's Central Business District."
+			"placeDescription": "Clarke Quay is a unique, conserved historical landmark located along the Singapore River and at the fringe of Singapore's Central Business District.",
+			"featured": []
 		},
 		{
 			"id": "007",
@@ -68,7 +78,8 @@
 			"url": "https://www.nparks.gov.sg/",
 			"latitude": "1.295526",
 			"longitude": "103.845331",
-			"placeDescription": "More than just a green space, Fort Canning Park is a gateway to fascinating historical insights and relics from days of yore."
+			"placeDescription": "More than just a green space, Fort Canning Park is a gateway to fascinating historical insights and relics from days of yore.",
+			"featured": []
 		},
 		{
 			"id": "008",
@@ -78,7 +89,8 @@
 			"url": "https://www.singaporeflyer.com/",
 			"latitude": "1.289332",
 			"longitude": "103.863152",
-			"placeDescription": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building."
+			"placeDescription": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building.",
+			"featured": []
 		},
 		{
 			"id": "009",
@@ -88,7 +100,8 @@
 			"url": "https://www.orchardroad.org/",
 			"latitude": "1.302279",
 			"longitude": "103.837399",
-			"placeDescription": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels."
+			"placeDescription": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels.",
+			"featured": []
 		}
 	]
 }
