@@ -12,12 +12,83 @@
 		},
 		{
 			"id": "002",
+			"placeName": "Marina Bay Sands",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
 			"latitude": "1.287466",
 			"longitude": "103.851424",
-			"placeName": "Asian Civilisations Museum",
-			"placeDescription": "Place description here",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "003",
+			"placeName": "Garden by the Bay",
 			"address": "address here",
-			"url": "http://www.marinabaysands.com/"
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "004",
+			"placeName": "China Town",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "005",
+			"placeName": "Asian Civilisations Museum",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "006",
+			"placeName": "Clarke Quay",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "007",
+			"placeName": "Fort Canning Park",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "008",
+			"placeName": "Singapore Flyer",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
+		},
+		{
+			"id": "009",
+			"placeName": "Orchard Road",
+			"address": "address here",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeDescription": "Place description here"
 		}
 	]
 }
