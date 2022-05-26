@@ -1,21 +1,23 @@
-[
-	{
-		"id": "001",
-		"placeName": "Merlion",
-		"address": "10 Bayfront Avenue, Singapore",
-		"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-		"url": "http://www.marinabaysands.com/",
-		"latitude": "1.286920",
-		"longitude": "103.854570",
-		"placeDescription": "The Merlion is the national personification of Singapore"
-	},
-	{
-		"id": "002",
-		"latitude": "1.287466",
-		"longitude": "103.851424",
-		"placeName": "Asian Civilisations Museum",
-		"placeDescription": "Place description here",
-		"address": "address here",
-		"url": "http://www.marinabaysands.com/"
-	}
-]
+{
+	"places": [
+		{
+			"id": "001",
+			"placeName": "Merlion",
+			"address": "10 Bayfront Avenue, Singapore",
+			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"url": "http://www.marinabaysands.com/",
+			"latitude": "1.286920",
+			"longitude": "103.854570",
+			"placeDescription": "The Merlion is the national personification of Singapore"
+		},
+		{
+			"id": "002",
+			"latitude": "1.287466",
+			"longitude": "103.851424",
+			"placeName": "Asian Civilisations Museum",
+			"placeDescription": "Place description here",
+			"address": "address here",
+			"url": "http://www.marinabaysands.com/"
+		}
+	]
+}
