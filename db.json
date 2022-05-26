@@ -8,27 +8,27 @@
 			"url": "http://www.marinabaysands.com/",
 			"latitude": "1.286920",
 			"longitude": "103.854570",
-			"placeDescription": "The Merlion is the national personification of Singapore"
+			"placeDescription": "The Merlion is the national personification of Singapore.\nIt's name combines \"mer\" meaning the sea and \"lion\". The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means \"sea tows\" in Javanese. The lion head represents Singapore's original name-Singapura-meaning \"lion city\" or \"kota singa\"."
 		},
 		{
 			"id": "002",
 			"placeName": "Marina Bay Sands",
-			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
+			"address": "10 Bayfront Avenue, Singapore",
+			"imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/488px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
-			"placeDescription": "Place description here"
+			"latitude": "1.283099",
+			"longitude": "103.860295",
+			"placeDescription": "Marina Bay Sands (abbreviation: MBS) is an integrated resort fronting Marina Bay in Singapore. The opening of Marina Bay Sands was held on 17 February 2011. It also marked the opening of the seven celebrity chef restaurants."
 		},
 		{
 			"id": "003",
-			"placeName": "Garden by the Bay",
+			"placeName": "Gardens by the Bay",
 			"address": "address here",
-			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
-			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
-			"placeDescription": "Place description here"
+			"imgUrl": "https://www.visitsingapore.com/id_id/see-do-singapore/architecture/modern/gardens-by-the-bay/_jcr_content/par-carousel/carousel_detailpage/carousel/item0.thumbnail.carousel-img.740.416.jpg",
+			"url": "https://www.gardensbythebay.com.sg/",
+			"latitude": "1.281790",
+			"longitude": "103.863954",
+			"placeDescription": "Beauty abounds in the Gardens.\nBeyond the flora and fauna that you’ll find here, admire the Gardens’ iconic structures – architectural marvels that reimagine nature with artistic finesse."
 		},
 		{
 			"id": "004",
@@ -36,8 +36,8 @@
 			"address": "address here",
 			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
+			"latitude": "1.284193",
+			"longitude": "103.843362",
 			"placeDescription": "Place description here"
 		},
 		{
@@ -56,8 +56,8 @@
 			"address": "address here",
 			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
+			"latitude": "1.290555",
+			"longitude": "103.846188",
 			"placeDescription": "Place description here"
 		},
 		{
@@ -66,8 +66,8 @@
 			"address": "address here",
 			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
+			"latitude": "1.295526",
+			"longitude": "103.845331",
 			"placeDescription": "Place description here"
 		},
 		{
@@ -76,8 +76,8 @@
 			"address": "address here",
 			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
+			"latitude": "1.289332",
+			"longitude": "103.863152",
 			"placeDescription": "Place description here"
 		},
 		{
@@ -86,8 +86,8 @@
 			"address": "address here",
 			"imgUrl": "https://www.befreetour.com/img/attraction/merlion-park20191008171420.jpg",
 			"url": "http://www.marinabaysands.com/",
-			"latitude": "1.287466",
-			"longitude": "103.851424",
+			"latitude": "1.302279",
+			"longitude": "103.837399",
 			"placeDescription": "Place description here"
 		}
 	]
